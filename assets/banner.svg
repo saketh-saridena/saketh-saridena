@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 320" width="1280" height="320" role="img" aria-labelledby="t d">
+  <title id="t">Saketh Saridena</title>
+  <desc id="d">Data scientist and AI engineer. LLM platforms, production ML pipelines and GenAI systems.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b1b33"/><stop offset="1" stop-color="#16367a"/></linearGradient>
+    <style>
+      .node { fill: #7cc4ff; }
+      .edge { stroke: #7cc4ff; stroke-width: 3; opacity: .45; fill: none; }
+      @media (prefers-reduced-motion: no-preference) {
+        .node { animation: glow 3.2s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+        .n2 { animation-delay: .4s; } .n3 { animation-delay: .8s; } .n4 { animation-delay: 1.2s; } .n5 { animation-delay: 1.6s; } .n6 { animation-delay: 2s; }
+      }
+      @keyframes glow { 0%, 100% { opacity: .45; transform: scale(.85); } 50% { opacity: 1; transform: scale(1.1); } }
+    </style>
+  </defs>
+  <rect width="1280" height="320" rx="28" fill="url(#bg)"/>
+  <g transform="translate(96 88)">
+    <circle cx="72" cy="72" r="72" fill="#ffffff" fill-opacity=".08"/>
+    <text x="72" y="96" text-anchor="middle" fill="#ffffff" font-family="Segoe UI, -apple-system, Helvetica Neue, Arial, sans-serif" font-size="66" font-weight="700" letter-spacing="-2">SS</text>
+  </g>
+  <text x="300" y="150" fill="#ffffff" font-family="Segoe UI, -apple-system, Helvetica Neue, Arial, sans-serif" font-size="64" font-weight="700" letter-spacing="-1">Saketh Saridena</text>
+  <text x="302" y="200" fill="#c7d6ee" font-family="Segoe UI, -apple-system, Helvetica Neue, Arial, sans-serif" font-size="26">Data scientist and AI engineer</text>
+  <text x="302" y="236" fill="#7cc4ff" font-family="Segoe UI, -apple-system, Helvetica Neue, Arial, sans-serif" font-size="20">LLM platforms  ·  production ML pipelines  ·  GenAI systems</text>
+  <g transform="translate(1000 70)">
+    <path class="edge" d="M20 60 90 20 170 70 120 150 40 140Z M90 20 120 150 M20 60 170 70"/>
+    <circle class="node n1" cx="20" cy="60" r="10"/><circle class="node n2" cx="90" cy="20" r="13"/>
+    <circle class="node n3" cx="170" cy="70" r="11"/><circle class="node n4" cx="120" cy="150" r="14"/>
+    <circle class="node n5" cx="40" cy="140" r="9"/><circle class="node n6" cx="98" cy="88" r="8"/>
+  </g>
+</svg>
