@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" width="100%" alt="Saketh Saridena: data scientist and AI engineer building LLM platforms, production ML pipelines and GenAI systems">
+<img src="assets/banner.svg" width="100%" alt="Saketh Saridena: AI engineer and data scientist in Redmond, WA, building governed multi-agent systems on Azure Databricks with LangGraph, MLflow and Unity Catalog">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-sakethsaridena.com-2f81f7?style=flat-square&labelColor=0b1b33)](https://sakethsaridena.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-saketh--saridena-2f81f7?style=flat-square&labelColor=0b1b33&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saketh-saridena/)
@@ -8,9 +8,13 @@
 
 </div>
 
-I'm a data scientist and AI engineer in Seattle. I build LLM-powered platforms, production ML pipelines and GenAI systems. My work runs from fine-tuning language models to shipping pipelines on Azure Databricks and AWS. I think in business outcomes, not only accuracy scores, and I like closing the gap between research and products that ship.
+I'm an AI engineer and data scientist in Redmond, WA. I take LLM agents from prototype to governed production: multi-agent systems on Azure Databricks with LangGraph, MLflow and Unity Catalog, built alongside the business teams who use them. I hold an M.S. in Data Science from CU Boulder.
 
-I hold an M.S. in Data Science from CU Boulder. Along the way I've published an IEEE paper, authored an Indian patent and presented research at PVSEC-31.
+## How I build agents
+
+- **Orchestration:** a supervisor over domain specialists in LangGraph. The planner and executor run on different model tiers to control cost, routing is deterministic wherever no model is needed, and a human reviews before anything is written back.
+- **Governance:** agents reach data through Unity Catalog, so business users ask in plain language and only see what they're allowed to see.
+- **Production:** deployed on Databricks Apps and Model Serving, with FastAPI back ends, React or Dash front ends, and MLflow tracing on every run.
 
 ## Featured work
 
@@ -47,15 +51,23 @@ I hold an M.S. in Data Science from CU Boulder. Along the way I've published an 
 </tr>
 </table>
 
+## Research
+
+- **IEEE paper:** [Automated Monitoring System for Healthier Aquaculture Farming](https://ieeexplore.ieee.org/document/10200444) (ACCAI-2023). A drone-mounted YOLOv5 system that finds dead and diseased fish, at 84% accuracy.
+- **Patent application:** Intelligent Traffic Control System, published by the Indian Patent Office (ref. 202341042839).
+- **Book chapter:** Navigating Ethical Dilemmas and Privacy Concerns in AI-Driven Parenting Technologies (co-author).
+- **Talk:** machine learning for perovskite solar-cell material screening, at PVSEC-31.
+
 ## Toolkit
 
 ![Python](https://img.shields.io/badge/Python-0b1b33?style=flat-square&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-0b1b33?style=flat-square&logo=r&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-0b1b33?style=flat-square&logo=langgraph&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-0b1b33?style=flat-square&logo=langchain&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0b1b33?style=flat-square&logo=mlflow&logoColor=white)
+![Azure Databricks](https://img.shields.io/badge/Azure%20Databricks-0b1b33?style=flat-square&logo=databricks&logoColor=white)
+![Unity Catalog](https://img.shields.io/badge/Unity%20Catalog-0b1b33?style=flat-square)
+![PySpark](https://img.shields.io/badge/PySpark-0b1b33?style=flat-square&logo=apachespark&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-0b1b33?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-0b1b33?style=flat-square&logo=react&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-0b1b33?style=flat-square&logo=scikitlearn&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-0b1b33?style=flat-square&logo=huggingface&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-0b1b33?style=flat-square&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-0b1b33?style=flat-square&logo=openai&logoColor=white)
-![Databricks](https://img.shields.io/badge/Azure%20Databricks-0b1b33?style=flat-square&logo=databricks&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-0b1b33?style=flat-square&logo=amazonwebservices&logoColor=white)
-![React](https://img.shields.io/badge/React-0b1b33?style=flat-square&logo=react&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-0b1b33?style=flat-square&logo=flask&logoColor=white)

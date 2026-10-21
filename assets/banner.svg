@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 320" width="1280" height="320" role="img" aria-labelledby="t d">
   <title id="t">Saketh Saridena</title>
-  <desc id="d">Data scientist and AI engineer. LLM platforms, production ML pipelines and GenAI systems.</desc>
+  <desc id="d">AI engineer and data scientist. Governed multi-agent systems on Azure Databricks with LangGraph, MLflow and Unity Catalog.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b1b33"/><stop offset="1" stop-color="#16367a"/></linearGradient>
     <style>
@@ -19,9 +19,9 @@
     <text x="72" y="96" text-anchor="middle" fill="#ffffff" font-family="Segoe UI, -apple-system, Helvetica Neue, Arial, sans-serif" font-size="66" font-weight="700" letter-spacing="-2">SS</text>
   </g>
   <text x="300" y="150" fill="#ffffff" font-family="Segoe UI, -apple-system, Helvetica Neue, Arial, sans-serif" font-size="64" font-weight="700" letter-spacing="-1">Saketh Saridena</text>
-  <text x="302" y="200" fill="#c7d6ee" font-family="Segoe UI, -apple-system, Helvetica Neue, Arial, sans-serif" font-size="26">Data scientist and AI engineer</text>
-  <text x="302" y="236" fill="#7cc4ff" font-family="Segoe UI, -apple-system, Helvetica Neue, Arial, sans-serif" font-size="20">LLM platforms  ·  production ML pipelines  ·  GenAI systems</text>
-  <g transform="translate(1000 70)">
+  <text x="302" y="200" fill="#c7d6ee" font-family="Segoe UI, -apple-system, Helvetica Neue, Arial, sans-serif" font-size="26">AI engineer and data scientist  ·  Redmond, WA</text>
+  <text x="302" y="236" fill="#7cc4ff" font-family="Segoe UI, -apple-system, Helvetica Neue, Arial, sans-serif" font-size="20">Governed multi-agent systems on Azure Databricks  ·  LangGraph  ·  MLflow  ·  Unity Catalog</text>
+  <g transform="translate(1080 52) scale(.82)">
     <path class="edge" d="M20 60 90 20 170 70 120 150 40 140Z M90 20 120 150 M20 60 170 70"/>
     <circle class="node n1" cx="20" cy="60" r="10"/><circle class="node n2" cx="90" cy="20" r="13"/>
     <circle class="node n3" cx="170" cy="70" r="11"/><circle class="node n4" cx="120" cy="150" r="14"/>
